@@ -1,6 +1,6 @@
 # 🤖 Pneuma WhatsApp FAQ Bot v0.1 – Prototype Pack
 
-A demo-ready WhatsApp chatbot that answers key Pneuma customer questions in a friendly and helpful tone. Built to quickly prototype FAQs, sweet-spot offers, and mileage transfer queries.
+A demo-ready WhatsApp LLM(use gpt for generete text) chatbot that answers key Pneuma customer questions in a friendly and helpful tone. Built to quickly prototype FAQs, sweet-spot offers, and mileage transfer queries.
 
 ---
 
