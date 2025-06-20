@@ -17,10 +17,10 @@ This prototype handles three high-value intents:
 ## 🖼️ Demo Preview
 
 ### 🔹 Image 1: Web Interface / Bot Console Output  
-![Bot Console Output](images/1.png)
+![Bot Console Output](demo_image_1.png)
 
 ### 🔹 Image 2: Example Response to "Today's Deal"  
-![Bot Today's Deal](images/2.png)
+![Bot Today's Deal](demo_image_2.png)
 
 ---
 
