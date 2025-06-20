@@ -21,7 +21,7 @@ This prototype handles three high-value intents:
 
 ### 🔹 Image 2: Example Response to "Today's Deal"  
 ![Bot Today's Deal](demo_image_2.png)
-
+!(demo_image_3.png)
 ---
 
 ## 🚀 Quick Setup (⏱ ~5 Minutes)
